@@ -19,7 +19,7 @@
 
 ### 퍼그샵
 
-[<img alt="pugshop" src="https://webview.pugshop.co.kr/archive/OG_img_KR.png" />](https://app.pugshop.co.kr)
+[<img alt="pugshop" width="400px" src="https://webview.pugshop.co.kr/archive/OG_img_KR.png" />](https://app.pugshop.co.kr)
 
 - 사용자, 관리자 서비스 웹 프론트엔드 유지보수 및 리뉴얼
 - Google Analytics를 통한 사용자 행동 분석
